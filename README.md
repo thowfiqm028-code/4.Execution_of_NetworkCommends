@@ -1,5 +1,5 @@
-[Command Prompt.txt](https://github.com/user-attachments/files/31724344/Command.Prompt.txt)# NAME: AMRITA B S
-# REGISTER NUMBER: 212225100002
+[Command Prompt.txt](https://github.com/user-attachments/files/31724344/Command.Prompt.txt)# NAME: Mohamed thowfiq M
+# REGISTER NUMBER: 212225040244
 # 4.Execution_of_NetworkCommands
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
